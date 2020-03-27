@@ -6,9 +6,9 @@ Das ist das Test Repository zum Aufzeigen, wie man mit Github Daten bereitstelle
 
 In dieser Readme.Rmd datei, die du gerade liest, kann man eine Einleitung schreiben, die einzelnen Datensätze auflisten und im Hauptordner mit ner guten Ordnerstruktur ablegen. 
 
-Man kann hier auch Bilder ablegen, etc. und alle schriftlichen Informationen sollten hier abgelegt werden. 
+Alle wichtigen allgemeinen Informationen sollten hier abgelegt werden. 
 
-# Informationen zu Daten und Metadaten
+## Informationen zu Daten und Metadaten
 
 * Daten müssen maschinenlesbar zur Verfügung gestellt werden
 * Spalten enthalten "Variablen"
@@ -17,5 +17,9 @@ Man kann hier auch Bilder ablegen, etc. und alle schriftlichen Informationen sol
 * 1.Zeile enthält Spaltennamen
 * **brauchen die Daten Zeilennamen???**
 
+* die Metadaten enthalten folgende Informationen
+  + Umkodierung, wenn Werte in Tabelle nicht interpretierbar sind
+  + einheitliche Lizenz CCiwas
+  + und noch mehr
 
 

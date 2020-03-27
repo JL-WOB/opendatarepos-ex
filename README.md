@@ -8,4 +8,7 @@ In dieser Readme.Rmd datei, die du gerade liest, kann man eine Einleitung schrei
 
 Man kann hier auch Bilder ablegen, etc. und alle schriftlichen Informationen sollten hier abgelegt werden. 
 
+# Informationen zu Daten und Metadaten
 
+* Daten müssen maschinenlesbar zur Verfügung gestellt werden
+* Spalten 

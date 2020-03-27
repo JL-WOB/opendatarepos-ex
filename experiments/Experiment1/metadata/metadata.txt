@@ -1,0 +1,5 @@
+Informationen zu den meta-informationen 
+
+- spaltenumkodierung müsste anders erfolgen 
+
+- mit bsp.Datei und im Idealfall nem R-Script

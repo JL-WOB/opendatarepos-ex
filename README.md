@@ -14,7 +14,7 @@ Man kann hier auch Bilder ablegen, etc. und alle schriftlichen Informationen sol
 * Spalten enthalten "Variablen"
 * Zeilen enthalten "Observations"
 * Zellen enthalten "Werte"
-* 1. Zeile enthält Spaltennamen
+* 1.Zeile enthält Spaltennamen
 * **brauchen die Daten Zeilennamen???**
 
 

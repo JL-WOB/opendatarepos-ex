@@ -11,4 +11,11 @@ Man kann hier auch Bilder ablegen, etc. und alle schriftlichen Informationen sol
 # Informationen zu Daten und Metadaten
 
 * Daten müssen maschinenlesbar zur Verfügung gestellt werden
-* Spalten 
+* Spalten enthalten "Variablen"
+* Zeilen enthalten "Observations"
+* Zellen enthalten "Werte"
+* 1. Zeile enthält Spaltennamen
+* **brauchen die Daten Zeilennamen???**
+
+
+

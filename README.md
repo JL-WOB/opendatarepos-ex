@@ -10,7 +10,7 @@ Alle wichtigen allgemeinen Informationen sollten hier abgelegt werden.
 
 ## Informationen zu Daten und Metadaten
 
-* Daten müssen maschinenlesbar zur Verfügung gestellt werden
+* Daten müssen maschinenlesbar zur Verfügung gestellt werden (*.csv, *.txt, *.tsv)
 * Spalten enthalten "Variablen"
 * Zeilen enthalten "Observations"
 * Zellen enthalten "Werte"
